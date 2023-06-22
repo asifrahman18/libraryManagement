@@ -1,0 +1,26 @@
+Interfaces:
+	1. Authority
+	2. General
+Models:
+	1. Admin
+	2. Librarian
+	3. Member
+
+Classes:
+	1. Validator
+	2. Authenticator
+	3. FileIO
+
+HomePage -> AdminLogin -> Add Librarian
+		       -> Remove Librarian
+		       -> Admin Settings -> Change ID
+					-> Change Pass
+			-> Sign Out
+			
+	 -> Librarian -> LibraryLogin -> Add Member
+				-> View Member
+			-> shop	-> Reciept
+model
+interface
+remove lib
+add

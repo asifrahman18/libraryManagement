@@ -1,0 +1,6 @@
+Book Name: abcd
+ID:  12345
+Number of pieces: 1
+Discount 15 Percent
+Final Price: 807.5
+
